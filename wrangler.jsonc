@@ -1,0 +1,8 @@
+{
+"name": "goexam-remake",
+"compatibility_date": "2025-07-12",
+"main": "out/",
+"compatibility_flags": [
+		"nodejs_compat"
+	]
+}

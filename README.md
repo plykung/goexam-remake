@@ -35,7 +35,9 @@
 
 ## For more information
 
-Contact us at 'goexam.inquiry (at) naphats (dot) me'
+Contact us at ' goexam (at) naphats (dot) addy (dot) io'
+
+---
 
 
 ---
